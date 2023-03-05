@@ -1,16 +1,13 @@
 package ola_mundo_java;
 
-import Gato.java;
+import ola_mundo_java_gado.Gato;
+
 public class primeiro_programa {
 
-	
 	public static void main(String[] args) {
 	
-		
-	
 		Gato gato = new Gato();
-		
-		
+				
 		System.out.println("Hello World !");
 		
 		int firstNumber = 10;
